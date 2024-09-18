@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amuthankural
+- 👋 Hi, I’m Kuralamuthan
 - 👀 I’m interested in Fluid simulations
 - 🌱 I’m currently learning OpenFOAM
 - 💞️ I’m looking to collaborate on FVM solvers
