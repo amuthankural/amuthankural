@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kuralamuthan
-- 👀 I’m interested in Fluid simulations
-- 🌱 I’m currently learning OpenFOAM
+- 👀 I work in Fluid dynamics and heat transfer
+- 🌱 I’m currently workingg with OpenFOAM
 - 💞️ I’m looking to collaborate on FVM solvers
-- 📫 You can reach me at kuralamuthan0309@gmail.com
+- 📫 You can reach me at amuthankural@gmail.com
 
 <!---
 amuthankural/amuthankural is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
